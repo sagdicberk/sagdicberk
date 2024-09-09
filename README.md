@@ -1,47 +1,41 @@
-## Hi there 👋
+## Hello, I'm Berk Sağdıç! 👋
 
-Welcome to my GitHub profile! I'm Berk Sağdıç, a Computer Engineering graduate from Abant İzzet Baysal University. I have experience in web application development and cybersecurity. Here’s a quick overview of my GitHub activity and contributions:
+I'm a Computer Engineering graduate from Abant İzzet Baysal University with a passion for web development and cybersecurity. I enjoy exploring new technologies and working on innovative projects. Here’s a bit about me and my GitHub activity:
 
-### 🔭 I’m currently working on:
-- Enhancing my skills in Full-Stack development with projects involving Spring Boot and Angular.
-- Developing a new web application focused on activity tracking and management.
+### 🛠️ Current Focus
+- **Building:** Full-Stack applications using Spring Boot and Angular.
+- **Learning:** Advanced Java concepts and cybersecurity practices.
 
-### 🌱 I’m currently learning:
-- Advanced concepts in Java and Angular.
-- Techniques in cybersecurity and network security.
+### 🚀 Projects & Contributions
+- **[Activity Tracker](https://github.com/sagdicberk/activity-tracker)**: A comprehensive application for tracking and managing activities, built with Spring Boot and Angular.
+- **[Code Review Tool](https://github.com/sagdicberk/code-review-tool)**: A tool for automated code reviews and quality checks.
 
-### 👯 I’m looking to collaborate on:
-- Exciting open-source projects and contributions in the areas of web development and security.
+### 💡 What I’m Excited About
+- Exploring new technologies and frameworks.
+- Contributing to open-source projects and collaborating with others.
 
-### 🤔 I’m looking for help with:
-- Advanced features in Spring Boot and Angular integration.
-- Optimizing application performance and security.
+### 📈 GitHub Stats
 
-### 💬 Ask me about:
-- Full-Stack Development, Java, Spring Boot, and Angular.
-- Cybersecurity practices and tools.
+![Berk Sağdıç's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&hide_title=true&hide=prs&theme=dark&count_private=true)
 
-### 📫 How to reach me:
+### 📊 GitHub Streak
+
+![Berk Sağdıç's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagdicberk&theme=dark&hide_border=true)
+
+### 🔍 Recent Activity
+
+[![Berk Sağdıç's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagdicberk&theme=github)](https://github.com/sagdicberk)
+
+### 🌍 Connect with Me
 - **Email**: [sagdicberk@gmail.com](mailto:sagdicberk@gmail.com)
 - **LinkedIn**: [linkedin.com/in/berk-sagdic](https://linkedin.com/in/sagdicberk)
 - **GitHub**: [github.com/sagdicberk](https://github.com/sagdicberk)
 
-### My GitHub Stats
+### 🎉 Fun Fact
+When I'm not coding, I enjoy solving complex puzzles and exploring new places. I’m also a big fan of cyber defense strategies and tools.
 
-![Berk Sağdıç's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&hide_title=true&hide=prs&theme=dark&count_private=true)
-
-### My GitHub Streak
-
-![Berk Sağdıç's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagdicberk&theme=dark&hide_border=true)
-
-### Recent Activity
-
-[![Berk Sağdıç's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagdicberk&theme=github)](https://github.com/sagdicberk)
+Feel free to check out my repositories, and let’s connect if you’re interested in collaborating on exciting projects!
 
 ---
 
-🔗 **Fun Fact**: I enjoy solving complex problems and learning new technologies. I also love contributing to projects that make a difference!
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
