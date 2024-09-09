@@ -2,7 +2,7 @@
 
 ### 🌍 Connect with Me
 - **Email**: [sagdicberk@gmail.com](mailto:sagdicberk@gmail.com)
-- **LinkedIn**: [linkedin.com/in/berk-sagdic](https://linkedin.com/in/sagdicberk)
+- **LinkedIn**: [linkedin.com/in/sagdicberk](https://linkedin.com/in/sagdicberk)
 
 ---
 
