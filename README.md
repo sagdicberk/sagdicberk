@@ -1,7 +1,7 @@
 ## Hello, I'm Berk! 👋
 
 ### 🛠️ Current Focus
-- **Building:** Full-Stack applications using Spring Boot and Angular.
+- **Building:** Full-Stack applications using Spring Framework and Angular.
 - **Learning:** Advanced Java concepts
 
 ### 📊 GitHub Stats & Languages
