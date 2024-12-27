@@ -1,4 +1,7 @@
-<div >
+<div style="background: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxpdnU0ZTFxaW4yamZkcGN6YzdpNHQxb3gwMXp4MGs4dzM3ZW45NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwNqFMnb7wZgNnq/giphy.gif') no-repeat center center; 
+            background-size: cover; 
+            width: 100%; 
+            height: 300px;">
   <h2 style="text-align:center"><b>Berk Sağdıç</b>👨‍🎓</h2>
   <h4><b>Full-Stack Developer</b></h4>
 
