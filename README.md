@@ -36,3 +36,27 @@ Hello! Welcome to my GitHub profile. I’m Berk, a passionate Full-Stack Develop
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagdicberk/sagdicberk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagdicberk/sagdicberk/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<div style="background: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxpdnU0ZTFxaW4yamZkcGN6YzdpNHQxb3gwMXp4MGs4dzM3ZW45NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwNqFMnb7wZgNnq/giphy.gif') no-repeat center center fixed; 
+            background-size: cover; 
+            width: 100%; 
+            height: auto; 
+            padding: 20px;
+            color: white;">
+  <h2 style="text-align:center; font-family: 'Roboto', sans-serif;"><b>Berk Sağdıç</b> 👨‍🎓</h2>
+  <h4 style="text-align:center; font-family: 'Roboto', sans-serif;">Full-Stack Developer</h4>
+
+  <div style="text-align: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ3cDNkNmZ3cm5zZXVmdzNzaWN5bngxZ2xnNXNvZ25qYWd4aHhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
+  </div>
+
+  <h3 style="text-align:center;">🔗 Connect with Me</h3>
+  <div style="text-align:center;">
+    <a href="https://www.linkedin.com/in/sagdicberk/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:sagdicberk@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
