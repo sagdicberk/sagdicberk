@@ -1,19 +1,35 @@
-<h1 style="text-align: center;">Hello, I'm Berk! 👋</h1>
+<div align="left">
+  <h2><b>Berk Sağdıç</b></h2>
+  <h4><b>Full-Stack Developer</b><br> Computer Science Enthusiast</h4>
 
-<h2>🛠️ Current Focus</h2>
-<ul>
-  <li><b>Building:</b> Full-Stack applications using Spring Framework and Angular.</li>
-  <li><b>Learning:</b> Advanced Java concepts</li>
-</ul>
+  <img src="https://i.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 
-<h2>📊 GitHub Stats & Languages</h2>
-<div style="align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&hide_title=true&hide=prs&theme=dark&count_private=true" alt="Berk Sağdıç's GitHub Stats" style="height: 45%; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagdicberk&layout=compact&theme=dark" alt="Top Languages" style="height: 45%; border" />
+  <h3>🔗 Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/sagdicberk/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sagdicberk@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
-<h2>🌍 Connect with Me</h2>
-<ul>
-  <li><b>Email:</b> <a href="mailto:sagdicberk@gmail.com">sagdicberk@gmail.com</a></li>
-  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/sagdicberk" target="_blank">linkedin.com/in/sagdicberk</a></li>
-</ul>
+<h1></h1>
+
+<h3 align="left">👨‍💻 About Me</h3>
+Hello! Welcome to my GitHub profile. I’m Berk, a passionate Full-Stack Developer currently working with Spring Boot and Angular. I love exploring new technologies, solving problems, and continuously learning to improve both personally and professionally.
+
+<h3 align="left">🛠️ Technologies I Use</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,postgresql,git,github,vscode)](https://skillicons.dev)
+
+#
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&count_private=true&hide_border=true&title_color=8BC3F5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Berk Sağdıç's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagdicberk&layout=compact&hide_border=true&title_color=8BC3F5&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagdicberk/sagdicberk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagdicberk/sagdicberk/output/github-contribution-grid-snake-dark.svg">
+</picture>
