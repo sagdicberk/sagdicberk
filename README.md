@@ -20,7 +20,7 @@ Hello! Welcome to my GitHub profile. I’m Berk, a passionate Full-Stack Develop
 
 <h3 align="left">🛠️ Technologies I Use</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,postgresql,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,postgresql,git,github,vscode)](https://skillicons.dev)
 
 #
 
