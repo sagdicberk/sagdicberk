@@ -1,8 +1,5 @@
-<div style="background: url('https://source.unsplash.com/1600x900/?technology,code') no-repeat center center; 
-            background-size: cover; 
-            width: 100%; 
-            height: 300px;">
-  <h2 style="text-align:center"><b>Berk Sağdıç</b>👨‍🎓</h2>
+<div >
+  <h2 style="text-align:center"><b>Berk Sağdıç</b></h2>
   <h4><b>Full-Stack Developer</b></h4>
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ3cDNkNmZ3cm5zZXVmdzNzaWN5bngxZ2xnNXNvZ25qYWd4aHhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
