@@ -1,6 +1,6 @@
 <div align="left">
   <h2><b>Berk Sağdıç</b></h2>
-  <h4><b>Full-Stack Developer</b><br> Computer Science Enthusiast</h4>
+  <h4><b>Full-Stack Developer</b></h4>
 
   <img src="https://i.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 
