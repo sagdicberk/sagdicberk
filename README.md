@@ -2,7 +2,7 @@
   <h2><b>Berk Sağdıç</b></h2>
   <h4><b>Full-Stack Developer</b></h4>
 
-  <img src="https://i.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ3cDNkNmZ3cm5zZXVmdzNzaWN5bngxZ2xnNXNvZ25qYWd4aHhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
 
   <h3>🔗 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/sagdicberk/" target="_blank">
