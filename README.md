@@ -8,8 +8,8 @@
 
 <h2>📊 GitHub Stats & Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&hide_title=true&hide=prs&theme=dark&count_private=true" alt="Berk Sağdıç's GitHub Stats" style="width: 45%; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagdicberk&layout=compact&theme=dark" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagdicberk&show_icons=true&hide_title=true&hide=prs&theme=dark&count_private=true" alt="Berk Sağdıç's GitHub Stats" style="height: 45%; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagdicberk&layout=compact&theme=dark" alt="Top Languages" style="height: 45%;" />
 </div>
 
 <h2>🌍 Connect with Me</h2>
