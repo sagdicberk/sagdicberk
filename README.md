@@ -1,6 +1,6 @@
 <div >
   <h2 style="text-align:center"><b>Berk Sağdıç</b></h2>
-  <h4><b>Full-Stack Developer</b></h4>
+  <h4><b>Computer Enginner</b></h4>
   
   <h3>🔗 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/sagdicberk/" target="_blank">
